@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0e0cc3e2.chunk.css",
+    "main.js": "/portfolio/static/js/main.845dc791.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.845dc791.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
+    "static/js/2.a8c20c47.chunk.js": "/portfolio/static/js/2.a8c20c47.chunk.js",
+    "static/js/2.a8c20c47.chunk.js.map": "/portfolio/static/js/2.a8c20c47.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.0e0cc3e2.chunk.css.map": "/portfolio/static/css/main.0e0cc3e2.chunk.css.map",
+    "static/js/2.a8c20c47.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a8c20c47.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/portfolio/static/media/about.24f4ff25.jpg",
+    "static/media/App.css": "/portfolio/static/media/banner.82aef47d.jpg",
+    "static/media/comingsoon.jpg": "/portfolio/static/media/comingsoon.b64d2374.jpg",
+    "static/media/movies.JPG": "/portfolio/static/media/movies.8c7a4be6.JPG",
+    "static/media/portfolio.JPG": "/portfolio/static/media/portfolio.9d8cb125.JPG",
+    "static/media/quiz.JPG": "/portfolio/static/media/quiz.c1b41fee.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37da8305.js",
+    "static/js/2.a8c20c47.chunk.js",
+    "static/css/main.0e0cc3e2.chunk.css",
+    "static/js/main.845dc791.chunk.js"
+  ]
+}
